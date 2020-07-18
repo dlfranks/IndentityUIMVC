@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IndentityUIMVC.Controllers
+namespace IdentityUIMVC.Controllers
 {
     public class ConsentController : Controller
     {

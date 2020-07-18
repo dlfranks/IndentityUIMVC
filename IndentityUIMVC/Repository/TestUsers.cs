@@ -5,7 +5,7 @@ using System.Text.Json;
 using IdentityServer4;
 using IdentityServer4.Test;
 
-namespace IndentityUIMVC.Repository
+namespace IdentityUIMVC.Repository
 {
     public class TestUsers
     {

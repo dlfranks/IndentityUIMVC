@@ -10,15 +10,15 @@ using IdentityServer4.Models;
 using IdentityServer4.Services;
 using IdentityServer4.Stores;
 using IdentityServer4.Test;
-using IndentityUIMVC.Helper;
-using IndentityUIMVC.Models;
-using IndentityUIMVC.Repository;
+using IdentityUIMVC.Helper;
+using IdentityUIMVC.Models;
+using IdentityUIMVC.Repository;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IndentityUIMVC.Controllers
+namespace IdentityUIMVC.Controllers
 {
     public class AccountOptions
     {

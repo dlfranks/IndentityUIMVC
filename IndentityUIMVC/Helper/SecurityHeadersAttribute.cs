@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Filters;
 
 
-namespace IndentityUIMVC.Helper
+namespace IdentityUIMVC.Helper
 {
     public class SecurityHeadersAttribute : ActionFilterAttribute
     {

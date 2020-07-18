@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace IndentityUIMVC.Models
+namespace IdentityUIMVC.Models
 {
     public class LoginViewModel : LoginInputModel
     {
