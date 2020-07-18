@@ -1,0 +1,13 @@
+Identity server: https://localhost:44322
+Gateway: https://localhost:44334
+WidgetApi: https://localhost:44382
+
+
+https://localhost:44322
+
+grant_type:password
+client_id:secret_user_client_id
+client_secret:secret
+scope:apiscope
+username:admin
+password:admin
